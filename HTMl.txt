@@ -1,0 +1,14 @@
+HTMl
+CSS(Vanilla)-Library/Framework:Bootstrap/Tailwind CSS
+JavaScript-Fundamental-DOM-Asynchronous
+Version Control
+Render-Depolyment
+Package Manager -NPM/YARN
+FrameWork-ReactJs/AngularJs/VueJs
+
+ADVANCED
+SASS
+TESTING:jEST
+CYPRESS
+TYPESCRIPT:SUBSET OF JAVASCRIPT
+
